@@ -18,7 +18,7 @@ import java.util.List;
 public class PlayerInfo {
 
     /**
-     * The type for <code>List\<PlayerInfo\></code>
+     * The type for <code>List PlayerInfo</code>
      * Used for GSON deserializing
      */
     public static final Type LIST_TYPE_TOKEN = new TypeToken<List<PlayerInfo>>() {

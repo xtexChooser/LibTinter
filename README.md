@@ -39,6 +39,10 @@ Maven:
 </dependency>
 ```
 
+## Javadoc
+
+The Javadoc of latest release is available on Jitpack: [Link](https://javadoc.jitpack.io/com/github/xtexChooser/LibTinter/latest/javadoc/)
+
 ## License
 
 LibTinter is licensed under Apache License 2.0
@@ -58,5 +62,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
 

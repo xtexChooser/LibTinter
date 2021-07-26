@@ -1,5 +1,7 @@
 # LibTinter
 
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/xtexChooser/LibTinter/Build?style=flat-square)![GitHub Workflow Status](https://img.shields.io/github/workflow/status/xtexChooser/LibTinter/CodeQL?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/xtexChooser/LibTinter?style=flat-square)![GitHub top language](https://img.shields.io/github/languages/top/xtexChooser/LibTinter?style=flat-square)![GitHub repo file count](https://img.shields.io/github/directory-file-count/xtexChooser/LibTinter?style=flat-square)![GitHub repo size](https://img.shields.io/github/repo-size/xtexChooser/LibTinter?style=flat-square)![GitHub issues](https://img.shields.io/github/issues/xtexChooser/LibTinter?style=flat-square)![GitHub pull requests](https://img.shields.io/github/issues-pr/xtexChooser/LibTinter?style=flat-square)![GitHub](https://img.shields.io/github/license/xtexChooser/LibTinter?style=flat-square)![GitHub forks](https://img.shields.io/github/forks/xtexChooser/LibTinter?style=flat-square)![GitHub Repo stars](https://img.shields.io/github/stars/xtexChooser/LibTinter?style=flat-square)![GitHub release (latest by date)](https://img.shields.io/github/v/release/xtexChooser/LibTinter?style=flat-square)![Github All Contributors](https://img.shields.io/github/all-contributors/xtexChooser/LibTinter/main?style=flat-square)
+
 Network library implementation for [Teahouse-Studios/tinter](https://github.com/Teahouse-Studios/Tinter) in Java
 
 ## Adding as a Dependency
